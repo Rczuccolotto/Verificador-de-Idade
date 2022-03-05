@@ -1,0 +1,1 @@
+Olá! Esse projeto foi elaborado através das aulas do Curso de JavaScript do Prof. Guanabara.
